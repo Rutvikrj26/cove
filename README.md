@@ -1,14 +1,3 @@
-<h1 align="center">Django REST API with React BoilerPlate</h1>
-
-👉 [View Live](https://drf-react-boilerplate.herokuapp.com/)
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![CircleCI](https://circleci.com/gh/faisalnazik/Django-REST-Framework-React-BoilerPlate/tree/master.svg?style=svg)](https://circleci.com/gh/faisalnazik/Django-REST-Framework-React-BoilerPlate/tree/master)
-[![Maintainability](https://api.codeclimate.com/v1/badges/1dc1d840640dad52e38f/maintainability)](https://codeclimate.com/github/faisalnazik/Django-REST-Framework-React-BoilerPlate/maintainability)
-
-![](image/README/1650208713974.png)
-
 ## Frontend ⭐
 
 - Latest version of React. and React Router Dom ✔
@@ -33,13 +22,6 @@
 - ReadOnly Serializers for better performance ✔
 - Throttle setup ✔
 - Extra password hashers like `Argon2PasswordHasher` Recommend by official django docs. ✔
-
-## Motivation 🎯
-
-- Minimal Setup of Starter MUI template configured with Django using DRF and Redux⭐
-- Robust Styles from Material UI⭐
-- Basic and Simple Code examples to understand integration⭐
-- More feactuers will also be added pretty soon⭐
 
 ## How to Run locally 🚀
 
@@ -72,7 +54,3 @@
         $ yarn start
 
     -  React app available at`http://localhost:3000/`
-
-👉 [View Live](https://drf-react-boilerplate.herokuapp.com/) 🚀
-
-👉 [Github Pages](https://faisalnazik.github.io/Django-REST-Framework-React-BoilerPlate/)
