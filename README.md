@@ -76,11 +76,3 @@
 👉 [View Live](https://drf-react-boilerplate.herokuapp.com/) 🚀
 
 👉 [Github Pages](https://faisalnazik.github.io/Django-REST-Framework-React-BoilerPlate/)
-
-## ⭐️ Support
-
-Give a ⭐️ if this project helped you!
-
-## License ©
-
-[The MIT License](LICENSE)
